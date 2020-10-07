@@ -8,4 +8,7 @@ one line
 - Feature 2 added.
 
 # Feature "No 3"
-- Feature 2 added.
+- Feature 4 added.
+
+# Feature "No 4"
+- Feature 4 added.
