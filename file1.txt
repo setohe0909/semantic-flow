@@ -12,3 +12,9 @@ one line
 
 # Feature "No 4"
 - Feature 4 added.
+
+# Feature "No 5"
+- Feature 5 added.
+
+# Feature "No 6"
+- Feature 6 added.
