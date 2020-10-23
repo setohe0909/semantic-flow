@@ -18,3 +18,6 @@ one line
 
 # Feature "No 6"
 - Feature 6 added.
+# Feature "No 6"
+- Feature 6 added.# Feature "No 6"
+- Feature 6 added.
